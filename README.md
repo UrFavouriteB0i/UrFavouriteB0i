@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UrFavouriteB0i.UrFavouriteB0i" />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=UrFavouriteB0i.UrFavouriteB0i&left_color=green&right_color=red)
 
 <!--
 **UrFavouriteB0i/UrFavouriteB0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

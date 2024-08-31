@@ -29,8 +29,8 @@
 
 </div>
 
-<h3 align="center">✨Fun fact #37: The fear of long words is called Hippopotomonstrosesquippedalioph✨
-Feel free to get to know me!</h3>
+<h3 align="center">✨Fun fact #37: The fear of long words is called Hippopotomonstrosesquippedalioph✨</h3>
+<h3 align="center">Feel free to get to know me!</h3>
 
 <div align="center">
 
